@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "4-Drev",
   "private": true,
   "scripts": {
     "build": "turbo run build",
